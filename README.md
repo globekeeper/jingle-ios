@@ -8,4 +8,4 @@ We had to expose the following public headers in MatrixSDK.h:
 - "MXCallAudioSessionConfigurator.h"
 - "MXCallStackCall.h"
 
-The change is awaiting upstream approval [TBD]().
+The change is awaiting upstream approval [here](https://github.com/matrix-org/matrix-ios-sdk/pull/1308).
